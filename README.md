@@ -17,10 +17,15 @@
 </div>
 <br /> 
 
+<h4>Deployed Repo's<h4>
+
+[React Todo app](https://fervent-noyce-ff07a4.netlify.app/)
+  
+[React Github usercard](https://react-github-user-card-nine-fawn.vercel.app/)
 
 
-[LinkedIn](https://www.linkedin.com/in/chrisforrest737) 
+LinkedIn---> https://www.linkedin.com/in/chrisforrest737 
                       
-[Email](chrisforrest737@gmail.com)  
+Email--->   chrisforrest737@gmail.com  
                                           
-[Resume](https://docs.google.com/document/1TMMaE0wK2WcD6Ukhfg2Cy_BhRQ5bDF4eCz_yUnj2OOo/edit?usp=sharing)
+Resume--->  https://docs.google.com/document/1TMMaE0wK2WcD6Ukhfg2Cy_BhRQ5bDF4eCz_yUnj2OOo/edit?usp=sharing
