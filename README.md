@@ -23,6 +23,7 @@
   
 [React Github usercard](https://react-github-user-card-nine-fawn.vercel.app/)
 
+<h4>Contact</h4>
 
 LinkedIn---> https://www.linkedin.com/in/chrisforrest737 
                       
