@@ -23,6 +23,10 @@
   
 [React Github usercard](https://react-github-user-card-nine-fawn.vercel.app/)
 
+[Java odds evens replit](https://repl.it/join/jgwhihyc-chrisforrest)
+
+[Java rock paper scissors replit](https://replit.com/join/curasxjk-chrisforrest)
+
 <h4>Contact</h4>
 
 [LinkedIn](https://www.linkedin.com/in/chrisforrest737) 
