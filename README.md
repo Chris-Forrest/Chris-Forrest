@@ -35,4 +35,4 @@
                       
 [Email](chrisforrest737@gmail.com)  
                                           
-[Resume](https://docs.google.com/document/d/1TMMaE0wK2WcD6Ukhfg2Cy_BhRQ5bDF4eCz_yUnj2OOo/edit?usp=sharing)
+[Portfolio](https://cdf-portfolio.vercel.app/)
