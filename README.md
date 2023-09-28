@@ -19,7 +19,7 @@
 </div>
 <br /> 
 
-<h3>Deployed Repo's<h3>
+<h2>Deployed Repo's</h2>
 
 [React Todo app](https://fervent-noyce-ff07a4.netlify.app/)
   
