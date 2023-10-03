@@ -29,7 +29,7 @@
 
 [Java rock paper scissors replit](https://replit.com/join/curasxjk-chrisforrest)
 
-<h3>Contact</h3>
+<h4>Contact</h4>
 
 [LinkedIn](https://www.linkedin.com/in/chrisforrest737) 
                       
