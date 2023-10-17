@@ -1,4 +1,4 @@
-<h1>Welcome to my github profile</h1>
+<h2>Welcome to my github profile</h2>
 
 <p>Hi, I'm Chris Forrest! I'm a Full Stack web developer with a passion for learning and writing code that can help others. Some other things I'm passionate about are music, fishing, kayaking, and improving my sourdough bread game.</p>
 
