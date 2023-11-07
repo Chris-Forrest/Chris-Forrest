@@ -19,7 +19,7 @@
 </div>
 <br /> 
 
-<h3>Deployed Repo's</h3>
+<h2>Deployed Repo's</h2>
 
 [React Todo app](https://fervent-noyce-ff07a4.netlify.app/)
   
@@ -29,7 +29,7 @@
 
 [Java rock paper scissors replit](https://replit.com/join/curasxjk-chrisforrest)
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 
 [LinkedIn](https://www.linkedin.com/in/chrisforrest737) 
                       
