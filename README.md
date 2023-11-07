@@ -2,7 +2,7 @@
 
 <p>Hi, I'm Chris Forrest! I'm a Full Stack web developer with a passion for learning and writing code that can help others. Some other things I'm passionate about are music, fishing, kayaking, and improving my sourdough bread game.</p>
 
-<h1>Technologies</h1>
+<h2>Technologies</h2>
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
