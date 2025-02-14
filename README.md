@@ -21,6 +21,10 @@
 
 <h2>Deployed Repo's</h2>
 
+[Full Stack Node.js and Vite React app connectiong to a MongDB](https://mern-stack-project-37om.onrender.com/)
+
+[Vite React app that searches unsplash for images with 4 static image search buttons](https://fc-cpic-search.vercel.app/)
+
 [React Todo app](https://fervent-noyce-ff07a4.netlify.app/)
   
 [React Github usercard](https://react-github-user-card-nine-fawn.vercel.app/)
