@@ -33,7 +33,7 @@
 
 [Java rock paper scissors replit](https://replit.com/join/curasxjk-chrisforrest)
 
-<h2>Contact</h2>
+<h3>Contact</h3>
 
 [LinkedIn](https://www.linkedin.com/in/chrisforrest737) 
                       
